@@ -55,23 +55,23 @@
 <br>
 
 - Here is the step-function graph of the 2 vehicles classes model with conditional logic and SNS:
-![state machine with sns]([.\sns_state_machine_screenshots\state_machine_with_sns.png](https://github.com/MostafaAurora/ML-workflow-for-Scones-Unlimited/blob/main/sns_state_machine_screenshots/state_machine_with_sns.png))
+![state machine with sns](https://github.com/MostafaAurora/ML-workflow-for-Scones-Unlimited/blob/main/sns_state_machine_screenshots/state_machine_with_sns.png)
 
 <br>
 
 - Here is an execution sample from the SNS step function:
-![sns state machine with parallel success and failure]([.\sns_state_machine_screenshots\sns_state_machine_parallel_success_and_failure.png](https://github.com/MostafaAurora/ML-workflow-for-Scones-Unlimited/blob/main/sns_state_machine_screenshots/sns_state_machine_parallel_success_and_failure.png))
+![sns state machine with parallel success and failure](https://github.com/MostafaAurora/ML-workflow-for-Scones-Unlimited/blob/main/sns_state_machine_screenshots/sns_state_machine_parallel_success_and_failure.png)
   - NOTE : since the function runs many inferences in parallel the confidence evaluation function (confidenceFilter) succeeds many time (as indicated by the green color of the function) but also fails sometimes triggering the SNS publish event and thus leading to the failure of the block as indicated by the red color of the block, that is why it does not have a complete green color from start to finish
 
 <br>
 
 - Here is example of a SNS email sent on failure:
-![no_sns_parallel_processing_state_machine]([.\sns_subscribtion_screenshots\sns_failure_notification.png](https://github.com/MostafaAurora/ML-workflow-for-Scones-Unlimited/blob/main/no_sns_state_mahine_screenshots/no_sns_parallel_processing_state_machine.png))
+![no_sns_parallel_processing_state_machine](https://github.com/MostafaAurora/ML-workflow-for-Scones-Unlimited/blob/main/no_sns_state_mahine_screenshots/no_sns_parallel_processing_state_machine.png)
 
 <br>
 
 - Here is an example of model monitor captured data visualizations:
-![model monitor captured-data visualization]([.\model_monitor_output_visualizations\model_monitor_output_visualization.png](https://github.com/MostafaAurora/ML-workflow-for-Scones-Unlimited/blob/main/model_monitor_output_visualizations/model_monitor_output_visualization.png))
+![model monitor captured-data visualization](https://github.com/MostafaAurora/ML-workflow-for-Scones-Unlimited/blob/main/model_monitor_output_visualizations/model_monitor_output_visualization.png)
 
 <br>
 

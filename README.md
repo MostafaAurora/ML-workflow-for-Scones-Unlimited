@@ -50,7 +50,7 @@
 <br>
 
 - Here is the step-function graph of the 3 vehicles classes model without SNS:
-![no_sns_parallel_processing_state_machine](.\no_sns_state_mahine_screenshots\no_sns_parallel_processing_state_machine.png) 
+![no_sns_parallel_processing_state_machine](https://github.com/MostafaAurora/ML-workflow-for-Scones-Unlimited/blob/main/no_sns_state_mahine_screenshots/no_sns_parallel_processing_state_machine.png) 
 
 <br>
 

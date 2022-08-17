@@ -71,7 +71,7 @@
 <br>
 
 - Here is an example of model monitor captured data visualizations:
-![model monitor captured-data visualization](https://github.com/MostafaAurora/ML-workflow-for-Scones-Unlimited/blob/main/model_monitor_output_visualizations/model_monitor_output_visualization.png)
+![model monitor captured-data visualization](https://github.com/MostafaAurora/ML-workflow-for-Scones-Unlimited/blob/main/model_monitor_output_visualizations/model_monitor_output_visualization.jpg)
 
 <br>
 
